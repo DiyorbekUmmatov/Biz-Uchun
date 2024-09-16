@@ -1,0 +1,1848 @@
+Uri: https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\npm\masonry-layout@4.2.2\dist\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.bunny.net/css?family=lobster-two:400,700|dm-sans:400,500,700|mulish:400,700|jost:400
+File Name: C:\Downloaded Web Sites\jthemes.net\css
+Content Type: text/css
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-500-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-500-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-500-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-500-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-ext-500-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-ext-500-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-ext-500-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-ext-500-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-ext-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-ext-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/dm-sans/files/dm-sans-latin-ext-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\dm-sans\files\dm-sans-latin-ext-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/jost/files/jost-cyrillic-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\jost\files\jost-cyrillic-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/jost/files/jost-cyrillic-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\jost\files\jost-cyrillic-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/jost/files/jost-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\jost\files\jost-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/jost/files/jost-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\jost\files\jost-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/jost/files/jost-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\jost\files\jost-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/jost/files/jost-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\jost\files\jost-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lobster-two/files/lobster-two-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\lobster-two\files\lobster-two-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lobster-two/files/lobster-two-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\lobster-two\files\lobster-two-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/lobster-two/files/lobster-two-latin-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\lobster-two\files\lobster-two-latin-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/lobster-two/files/lobster-two-latin-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\lobster-two\files\lobster-two-latin-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-ext-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-ext-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-cyrillic-ext-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-cyrillic-ext-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-ext-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-ext-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-latin-ext-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-latin-ext-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-vietnamese-400-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-vietnamese-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-vietnamese-400-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-vietnamese-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-vietnamese-700-normal.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-vietnamese-700-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/mulish/files/mulish-vietnamese-700-normal.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\mulish\files\mulish-vietnamese-700-normal.woff2
+Content Type: font/woff2
+
+Uri: https://jthemes.net/themes/html/kidify/404.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\404.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/about.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\about.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/animate.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\animate.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/glightbox.min.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\glightbox.min.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\jquery-ui.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery.timepicker.min.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\jquery.timepicker.min.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/select2.min.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\select2.min.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/slick.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\slick.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/plugins/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\plugins\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\style.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/vendors/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\vendors\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/vendors/normalize.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\vendors\normalize.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/css/vendors/uicons-regular-rounded.css
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\css\vendors\uicons-regular-rounded.css
+Content Type: text/css
+
+Uri: https://jthemes.net/themes/html/kidify/assets/fonts/uicons/uicons-regular-rounded.eot
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\fonts\uicons\uicons-regular-rounded.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jthemes.net/themes/html/kidify/assets/fonts/uicons/uicons-regular-rounded.woff
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\fonts\uicons\uicons-regular-rounded.woff
+Content Type: font/woff
+
+Uri: https://jthemes.net/themes/html/kidify/assets/fonts/uicons/uicons-regular-rounded.woff2
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\fonts\uicons\uicons-regular-rounded.woff2
+Content Type: font/woff2
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/gallery.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\gallery.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/gallery2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\gallery2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/gallery3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\gallery3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/gallery4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\gallery4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/gallery5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\gallery5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/img.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\img.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/about/tick.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\about\tick.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog-single/author.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog-single\author.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog-single/author2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog-single\author2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog-single/img.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog-single\img.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/bg-blog-2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\bg-blog-2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/bg-blog.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\bg-blog.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/blog.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\blog.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/blog2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\blog2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/blog3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\blog3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/blog4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\blog4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/feature.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\feature.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/feature2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\feature2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/feature3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\feature3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/feature4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\feature4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/blog/gal9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\blog\gal9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/checkout/code.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\checkout\code.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/apparels.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\apparels.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/banner-section2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\banner-section2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/banner2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\banner2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-animal.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\bg-animal.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-collection1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\bg-collection1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-collection2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\bg-collection2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-kid.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\bg-kid.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-section2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\bg-section2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-section4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\bg-section4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/blog1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\blog1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/blog2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\blog2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/blog3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\blog3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/dress.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\dress.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/instagram.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\instagram.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/instagram2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\instagram2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/instagram3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\instagram3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/instagram4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\instagram4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/instagram5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\instagram5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/instagram6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\instagram6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/leaf.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\leaf.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/line.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\line.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product10.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product10.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product11.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product11.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product12.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product12.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product13.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product13.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product14.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product14.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product15.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product15.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product16.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product16.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product17.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product17.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product18.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product18.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product19.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product19.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product20.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product20.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product21.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product21.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product22.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product22.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product23.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product23.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product24.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product24.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product25.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product25.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product26.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product26.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product27.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product27.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product28.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product28.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product29.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product29.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/product9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\product9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/sale.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\sale.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/star.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\star.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/star2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\star2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/upto60.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage1\upto60.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/30day.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\30day.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/avatar-review.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\avatar-review.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/banner2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\banner2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/bg-clothes.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\bg-clothes.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/bg-review.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\bg-review.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/certify.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\certify.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/clothes.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\clothes.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/collection.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\collection.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/collection2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\collection2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/collection3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\collection3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/fastshipping.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\fastshipping.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/girl.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\girl.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/insta7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\insta7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/instagram.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/junina.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\junina.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/kid-festival.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\kid-festival.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/monster.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\monster.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/news1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\news1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/news2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\news2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/payment.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\payment.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product10.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product10.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/product9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\product9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/school.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\school.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy10.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy10.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/toy9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage2\toy9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/app-google.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\app-google.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/app-store.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\app-store.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/banner2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\banner2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/bg-banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\bg-banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/bg-subscriber.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\bg-subscriber.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/cat9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\cat9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/flash.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\flash.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/flash2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\flash2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/flash3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\flash3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/flash4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\flash4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/kid8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\kid8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/product1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\product1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/product2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\product2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/product3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\product3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/product4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\product4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/section4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\section4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/toy.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\toy.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/toy2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\toy2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/toy3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\toy3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/toy4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\toy4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/toy5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\toy5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/trending.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\trending.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/trending2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\trending2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/trending3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\trending3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/trending4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage3\trending4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/banner2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\banner2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/bg-deal.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\bg-deal.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/bg-subscriber.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\bg-subscriber.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/cat8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\cat8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/deal.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\deal.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/deal2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\deal2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/deal3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\deal3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/deal4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\deal4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/deal5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\deal5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/deal6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\deal6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl10.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl10.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/girl9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\girl9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage4/insta8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage4\insta8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/ads.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\ads.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/ads2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\ads2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/baby8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\baby8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/banner2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\banner2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/bg-best.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\bg-best.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/bg-comfortable.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\bg-comfortable.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/bg-discount.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\bg-discount.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/bg-latest.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\bg-latest.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/flash.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\flash.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/flash2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\flash2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/flash3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\flash3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/flash4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\flash4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/flash5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\flash5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/leaf.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\leaf.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/promotion.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\promotion.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/promotion2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\promotion2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/promotion3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\promotion3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/promotion4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\promotion4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/promotion5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\promotion5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/promotion6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\promotion6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/star.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\star.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage5/up60.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\homepage5\up60.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/author-1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\author-1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/author-2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\author-2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/author-3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\author-3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-detail.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-detail.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-detail2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-detail2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img-detail3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img-detail3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/img.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\img.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/product.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\product.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/product2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\product2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/product3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\product3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/small-thumb-1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\small-thumb-1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/small-thumb-2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\small-thumb-2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/small-thumb-3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\small-thumb-3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/thumnb.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\thumnb.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/thumnb2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\thumnb2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/thumnb3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\thumnb3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/thumnb4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\thumnb4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/thumnb5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\thumnb5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/product/vendor-logo.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\product\vendor-logo.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/banner_12.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\banner_12.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/bg-head.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\bg-head.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/check.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\check.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/page-head-3-bg.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\page-head-3-bg.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/view-grid-active.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\view-grid-active.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/view-grid.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\view-grid.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/view-list-active.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\view-list-active.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/page/shop/view-list.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\page\shop\view-list.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-1.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-1.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-10.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-10.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-11.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-11.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-2.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-2.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-3.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-3.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-4.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-4.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-5.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-5.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-6.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-6.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-7.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-7.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-8.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-8.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/logo/logo-9.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\logo\logo-9.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/swiper/next.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\swiper\next.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/slider/swiper/prev.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\slider\swiper\prev.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/404.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\404.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/bg-popup.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\bg-popup.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/brush-bg.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\brush-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/favicon.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-breadcrumb.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-breadcrumb.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-down-collapse.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-down-collapse.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-down-filter.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-down-filter.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-down-grey.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-down-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-down-slide.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-down-slide.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-down-white.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-down-white.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-grey.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-hover.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-menu-white.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-menu-white.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-menu.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-menu.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-next-hover.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-next-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-next.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-next.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-prev-hover.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-prev-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-prev.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-prev.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-right.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-sm.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-sm.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-up-slide.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-up-slide.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-up.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/back.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\back.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/call.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\call.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-1.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-2.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-2.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-3.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-3.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-4.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-4.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-5.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-5.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-6.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-6.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-7.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-7.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/CategoryIcon24-8.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\CategoryIcon24-8.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/checked.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\checked.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/close.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\close.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/email-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\email-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/email.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\email.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/fb-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\fb-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/fb.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/flash.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\flash.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/flash2.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\flash2.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/googlepay.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\googlepay.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/icon-secure-small.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\icon-secure-small.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/icon-secure.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\icon-secure.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/icon-store.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\icon-store.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/instagram-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\instagram-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/instagram.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/mastercard.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/minus.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/payoneer.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\payoneer.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/phone-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\phone-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/phone-yellow.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\phone-yellow.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/phone.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/pin-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\pin-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/pin.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\pin.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/plus.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/search-icon.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/search-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\search-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/sort.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\sort.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/star.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\star.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/tw-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\tw-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/tw.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\tw.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/youtube-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\youtube-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/youtube.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/zoom.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\icons\zoom.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/line-wave.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\line-wave.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/logo-brand-1.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\logo-brand-1.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/logo-footer-w.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\logo-footer-w.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/logo-footer.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\logo-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/logo.svg
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/megamenu.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\megamenu.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/promotion-banner.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\promotion-banner.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/imgs/template/promotion.png
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\imgs\template\promotion.png
+Content Type: image/png
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/main.js?v=1.0.0
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/counterup.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\counterup.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/glightbox.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\glightbox.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/isotope.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\isotope.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/jquery-migrate-3.3.0.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\jquery-migrate-3.3.0.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/jquery-ui.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\jquery-ui.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\jquery.countdown.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/jquery.elevatezoom.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\jquery.elevatezoom.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/jquery.timepicker.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\jquery.timepicker.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/magnific-popup.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\magnific-popup.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/modernizr-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\modernizr-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/noUISlider.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\noUISlider.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/perfect-scrollbar.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\perfect-scrollbar.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/scrollup.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\scrollup.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/select2.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\select2.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/slick.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\slick.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/slider.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\slider.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/waypoints.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\waypoints.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/assets/js/vendors/wow.js
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\assets\js\vendors\wow.js
+Content Type: text/javascript
+
+Uri: https://jthemes.net/themes/html/kidify/blog-2.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\blog-2.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/blog-3.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\blog-3.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/blog-single.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\blog-single.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/blog.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\blog.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/cart.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\cart.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/checkout.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\checkout.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/compare.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\compare.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/contact.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\contact.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/index-2.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\index-2.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/index-3.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\index-3.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/index-4.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\index-4.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/index-5.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\index-5.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/index.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\index.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/my-account.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\my-account.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/product-list-2.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\product-list-2.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/product-list-3.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\product-list-3.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/product-list.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\product-list.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/product-single-2.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\product-single-2.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/product-single-3.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\product-single-3.html
+Content Type: text/html
+
+Uri: https://jthemes.net/themes/html/kidify/product-single.html
+File Name: C:\Downloaded Web Sites\jthemes.net\themes\html\kidify\product-single.html
+Content Type: text/html
+
